@@ -12,3 +12,15 @@
 @import '../blocks/header/__logo/header__logo.css';
 @import '../blocks/header/__lang/header__lang.css';
 @import '../blocks/header/__lang/_type/header__lang_type_active.css';
+
+/* ----- MAIN ----- */
+@import '../blocks/main/main.css';
+@import '../blocks/main/__lead/main__lead.css';
+
+
+/* ----- Lead ----- */
+@import '../blocks/lead/lead.css';
+@import '../blocks/lead/__title/lead__title.css';
+@import '../blocks/lead/__subtitle/lead__subtitle.css';
+@import '../blocks/lead/__image/lead__image.css';
+@import '../blocks/lead/__text/lead__text.css';
