@@ -1,3 +1,14 @@
 .root {
     background: #2A2C2F;
+    width: 100vw;
+    margin: 0;
+    padding: 16px 16px 24px;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .root {
+        background: #825c8c;
+        padding: 24px 48px 24px 48px;
+    }
 }

@@ -6,3 +6,9 @@
 
 /* ----- ROOT ----- */
 @import '../blocks/root/root.css';
+
+/* ----- HEADER ----- */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__logo/header__logo.css';
+@import '../blocks/header/__lang/header__lang.css';
+@import '../blocks/header/__lang/_type/header__lang_type_active.css';
