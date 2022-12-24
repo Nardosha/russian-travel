@@ -16,6 +16,7 @@
 /* ----- MAIN ----- */
 @import '../blocks/main/main.css';
 @import '../blocks/main/__lead/main__lead.css';
+@import '../blocks/main/__intro/main__intro.css';
 
 
 /* ----- Lead ----- */
@@ -24,3 +25,11 @@
 @import '../blocks/lead/__subtitle/lead__subtitle.css';
 @import '../blocks/lead/__image/lead__image.css';
 @import '../blocks/lead/__text/lead__text.css';
+
+/* ----- Intro ----- */
+@import '../blocks/intro/intro.css';
+@import '../blocks/intro/__title/intro__title.css';
+@import '../blocks/intro/__text/intro__text.css';
+@import '../blocks/intro/__list/intro__list.css';
+@import '../blocks/intro/__list-item/intro__list-item.css';
+@import '../blocks/intro/__list-count/intro__list-count.css';

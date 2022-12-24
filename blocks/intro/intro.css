@@ -1,0 +1,25 @@
+.intro {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 109%;
+    color: #fff;
+    padding: 0 16px;
+}
+
+@media (min-width: 768px) {
+    .intro {
+        padding: 0 24px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .intro {
+        max-width: 928px;
+        margin-right: auto;
+        margin-left: auto;
+        padding: 0;
+    }
+}

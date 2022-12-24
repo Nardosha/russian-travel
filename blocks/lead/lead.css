@@ -5,3 +5,18 @@
     font-weight: 400;
     text-align: center;
 }
+
+@media (min-width: 1024px) {
+    .lead {
+        padding: 0 48px;
+        max-width: 928px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 1280px) {
+    .lead {
+        padding: 0 148px;
+    }
+}

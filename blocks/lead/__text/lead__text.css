@@ -10,12 +10,12 @@
 
 @media (min-width: 768px) {
     .lead__text {
-        margin: 0 0 0 24px;
+        margin: 0 24px;
     }
 }
 
 @media (min-width: 1024px) {
     .lead__text {
-        margin: 0 0 0 48px;
+        margin: 0;
     }
 }
