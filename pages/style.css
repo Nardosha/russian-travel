@@ -1,1 +1,8 @@
+/* ----- VENDORS ----- */
 @import '../vendors/normalize.css';
+
+/* ----- FONTS ----- */
+@import '../blocks/fonts/fonts.css';
+
+/* ----- ROOT ----- */
+@import '../blocks/root/root.css';
