@@ -1,0 +1,29 @@
+.places__place:not(:last-of-type) {
+    margin: 0 0 50px 0;
+}
+
+@media (min-width: 768px) {
+    .places__place {
+        padding: 0 24px;
+    }
+
+    .places__place:not(:last-of-type) {
+        margin: 0 0 73px 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    .places__place {
+        padding: 0 48px;
+    }
+
+    .places__place:not(:last-of-type) {
+        margin: 0 0 80px 0;
+    }
+}
+
+@media (min-width: 1280px) {
+    .places__place {
+        padding: 0 148px;
+    }
+}

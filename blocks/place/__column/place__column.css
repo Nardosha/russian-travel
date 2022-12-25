@@ -1,0 +1,27 @@
+.place__column {
+    display: grid;
+    align-items: start;
+    justify-items: start;
+    gap: 32px;
+}
+
+@media (min-width: 768px) {
+      .place__column {
+        gap: 28px;
+        grid-template-columns: minmax(auto, 340px) 1fr;
+    }
+}
+
+@media (min-width: 1024px) {
+    .place__column {
+        gap: 32px;
+        grid-template-columns: minmax(auto, 440px) 1fr;
+    }
+}
+
+@media (min-width: 1280px) {
+    .place__column {
+        gap: 40px;
+        grid-template-columns: minmax(auto, 460px) 1fr;
+    }
+}
