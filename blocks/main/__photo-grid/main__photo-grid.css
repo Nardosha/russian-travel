@@ -1,3 +1,15 @@
 .main__photo-grid {
-  margin: 0 auto;
+  margin: 0 auto 64px auto;
+}
+
+@media (min-width: 768px) {
+  .main__photo-grid {
+    margin-bottom: 88px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .main__photo-grid {
+    margin-bottom: 92px;
+  }
 }

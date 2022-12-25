@@ -38,3 +38,6 @@
 /* ----- Photo-grid ----- */
 @import '../blocks/photo-grid/photo-grid.css';
 @import '../blocks/photo-grid/__item/photo-grid__item.css';
+
+/* ----- Places ----- */
+@import '../blocks/places/places.css';
