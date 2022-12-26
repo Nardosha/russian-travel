@@ -65,3 +65,6 @@
 @import '../blocks/cover/__title/cover__title.css';
 @import '../blocks/cover/__subtitle/cover__subtitle.css';
 @import '../blocks/cover/__break-word/cover__break-word.css';
+
+/* ----- FOOTER ----- */
+@import '../blocks/footer/footer.css';
