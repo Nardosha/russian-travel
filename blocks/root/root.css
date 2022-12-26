@@ -8,19 +8,19 @@
 
 @media (min-width: 768px) {
     .root {
-        background: #825c8c;
+        /*background: #825c8c;*/
         padding: 24px 0 24px 0;
     }
 }
 
 @media (min-width: 1024px) {
     .root {
-        background: #7d9675;
+        /*background: #7d9675;*/
     }
 }
 
 @media (min-width: 1280px) {
     .root {
-        background: #83d5d9;
+        /*background: #83d5d9;*/
     }
 }

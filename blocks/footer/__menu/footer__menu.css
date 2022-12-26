@@ -1,0 +1,16 @@
+.footer__menu {
+    list-style: none;
+    display: grid;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0 0 48px 0;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+@media (min-width: 768px) {
+    .footer__menu {
+        grid-template-columns: repeat(5, min-content);
+        flex: 1 0 auto;
+        margin: 0 69px 0 0;
+    }
+}

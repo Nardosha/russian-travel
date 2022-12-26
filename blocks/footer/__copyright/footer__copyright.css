@@ -1,0 +1,12 @@
+.footer__copyright {
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    .footer__copyright {
+        align-self: flex-end;
+        line-height: 114%;
+    }
+}

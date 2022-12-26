@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+    .footer__nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+}
