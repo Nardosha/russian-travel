@@ -1,15 +1,15 @@
-.main__cover {
+.root__main {
     margin-bottom: 64px;
 }
 
 @media (min-width: 768px) {
-    .main__cover {
+    .root__main {
         margin-bottom: 88px;
     }
 }
 
 @media (min-width: 1024px) {
-    .main__cover {
+    .root__main {
         margin-bottom: 92px;
     }
 }

@@ -1,5 +1,4 @@
 .main__lead {
-    margin-top: 48px;
     margin-bottom: 64px;
 }
 
@@ -12,11 +11,5 @@
 @media (min-width: 1024px) {
     .main__intro {
         margin-bottom: 92px;
-    }
-}
-
-@media (min-width: 1280px) {
-    .main__lead {
-        margin-top: 56px;
     }
 }

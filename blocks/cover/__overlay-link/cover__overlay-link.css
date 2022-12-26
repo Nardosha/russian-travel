@@ -1,0 +1,25 @@
+.cover__overlay-link {
+    color: inherit;
+    text-decoration: none;
+    position: relative;
+    background: url('../../../images/main/cover/cover__image.jpg') center/cover no-repeat;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 320px;
+    min-height: 200px;
+}
+
+.cover__overlay-link::after {
+    content: "";
+    position: absolute;
+    background: rgba(42, 44, 47, 0.3);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

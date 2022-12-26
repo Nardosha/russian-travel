@@ -1,0 +1,5 @@
+@media (min-width: 678px) {
+    .cover__break-word {
+        display: none;
+    }
+}

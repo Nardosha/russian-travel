@@ -6,6 +6,8 @@
 
 /* ----- ROOT ----- */
 @import '../blocks/root/root.css';
+@import '../blocks/root/__header/root__header.css';
+@import '../blocks/root/__main/root__main.css';
 
 /* ----- HEADER ----- */
 @import '../blocks/header/header.css';
@@ -19,7 +21,6 @@
 @import '../blocks/main/__intro/main__intro.css';
 @import '../blocks/main/__photo-grid/main__photo-grid.css';
 @import '../blocks/main/__places/main__places.css';
-@import '../blocks/main/__cover/main__cover.css';
 
 
 /* ----- Lead ----- */
@@ -59,3 +60,8 @@
 
 /* ----- Cover ----- */
 @import '../blocks/cover/cover.css';
+@import '../blocks/cover/__overlay-link/cover__overlay-link.css';
+@import '../blocks/cover/__inner-container/cover__inner-container.css';
+@import '../blocks/cover/__title/cover__title.css';
+@import '../blocks/cover/__subtitle/cover__subtitle.css';
+@import '../blocks/cover/__break-word/cover__break-word.css';
