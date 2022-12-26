@@ -1,0 +1,15 @@
+.main__cover {
+    margin-bottom: 64px;
+}
+
+@media (min-width: 768px) {
+    .main__cover {
+        margin-bottom: 88px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .main__cover {
+        margin-bottom: 92px;
+    }
+}

@@ -18,6 +18,8 @@
 @import '../blocks/main/__lead/main__lead.css';
 @import '../blocks/main/__intro/main__intro.css';
 @import '../blocks/main/__photo-grid/main__photo-grid.css';
+@import '../blocks/main/__places/main__places.css';
+@import '../blocks/main/__cover/main__cover.css';
 
 
 /* ----- Lead ----- */
@@ -54,3 +56,6 @@
 @import '../blocks/place/__image/place__image.css';
 @import '../blocks/place/__paragraphs/place__paragraphs.css';
 @import '../blocks/place/__paragraph/place__paragraph.css';
+
+/* ----- Cover ----- */
+@import '../blocks/cover/cover.css';
