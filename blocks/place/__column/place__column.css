@@ -1,5 +1,6 @@
 .place__column {
     display: grid;
+    grid-template-columns: 1fr;
     align-items: start;
     justify-items: start;
     gap: 32px;

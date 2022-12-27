@@ -1,6 +1,7 @@
 .place {
     display: grid;
     gap: 32px;
+    grid-template-columns: 1fr;
 }
 
 @media (min-width: 768px) {
