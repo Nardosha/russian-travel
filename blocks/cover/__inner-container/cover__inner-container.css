@@ -7,11 +7,10 @@
     z-index: 1;
 }
 
-@media (min-width: 678px) {
+@media (min-width: 768px) {
     .cover__inner-container {
         padding: 115px 104px;
     }
-
 }
 
 @media (min-width: 1024px) {

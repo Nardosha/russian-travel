@@ -7,7 +7,7 @@
     margin: 0;
 }
 
-@media (min-width: 678px) {
+@media (min-width: 768px) {
     .cover__subtitle {
         max-width: 360px;
         font-size: 18px;
