@@ -1,5 +1,5 @@
 .main__places {
-    margin-bottom: 66px;
+    margin: 0 0 66px 0;
 }
 
 @media (min-width: 768px) {

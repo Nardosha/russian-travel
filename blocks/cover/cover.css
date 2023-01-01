@@ -4,6 +4,7 @@
     font-style: normal;
     text-align: center;
     color: #FFFFFF;
+    padding: 0;
 }
 
 @media (min-width: 1280px) {
