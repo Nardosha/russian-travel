@@ -1,9 +1,13 @@
 .root {
     background: #2A2C2F;
-    width: 100vw;
-    margin: 0;
+    width: 100%;
+    margin: 0 auto;
     padding: 16px 0 24px 0;
     box-sizing: border-box;
+
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
 @media (min-width: 768px) {
