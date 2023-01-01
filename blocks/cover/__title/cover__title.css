@@ -2,6 +2,7 @@
     font-weight: 900;
     font-size: 32px;
     line-height: 109%;
+    max-width: 240px;
     padding: 0;
     margin: 0 0 16px 0;
 }
@@ -10,5 +11,7 @@
     .cover__title {
         font-size: 72px;
         line-height: 106%;
+        max-width: 550px;
+
     }
 }
