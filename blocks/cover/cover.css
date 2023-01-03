@@ -4,11 +4,9 @@
     font-style: normal;
     text-align: center;
     color: #FFFFFF;
+    background-image: url('../../images/main/cover/cover__image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     padding: 0;
-}
-
-@media (min-width: 1280px) {
-    .cover {
-        padding: 0 48px;
-    }
 }

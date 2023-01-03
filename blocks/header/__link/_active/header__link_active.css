@@ -1,3 +1,13 @@
 .header__link_active {
-    text-decoration: underline;
+    position: relative;
+}
+
+.header__link_active::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    background-color: #fff;
+    width: 100%;
+    height: 2px;
 }

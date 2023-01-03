@@ -1,5 +1,6 @@
 .header__languages {
     list-style: none;
+    align-self: center;
     display: flex;
     align-items: center;
     justify-content: space-between;

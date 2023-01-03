@@ -4,6 +4,9 @@
 /* ----- FONTS ----- */
 @import '../vendors/fonts/fonts.css';
 
+/* ----- PAGE ----- */
+@import '../blocks/page/page.css';
+
 /* ----- ROOT ----- */
 @import '../blocks/root/root.css';
 @import '../blocks/root/__header/root__header.css';

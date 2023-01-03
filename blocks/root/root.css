@@ -1,9 +1,9 @@
 .root {
-    background: #2A2C2F;
-    width: 100%;
-    margin: 0 auto;
-    padding: 16px 0 24px 0;
     box-sizing: border-box;
+    overflow: hidden;
+    max-width: 1280px;
+    padding: 16px 0 24px 0;
+    margin: 0 auto;
 
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -12,19 +12,6 @@
 
 @media (min-width: 768px) {
     .root {
-        background: #825c8c;
         padding: 24px 0 24px 0;
-    }
-}
-
-@media (min-width: 1024px) {
-    .root {
-        background: #7d9675;
-    }
-}
-
-@media (min-width: 1280px) {
-    .root {
-        background: #83d5d9;
     }
 }
