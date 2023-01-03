@@ -1,15 +1,15 @@
 .main__lead {
-    margin: 0 0 64px 0;
+    margin: 0 auto 64px auto;
 }
 
 @media (min-width: 768px) {
     .main__intro {
-        margin: 0 0 88px 0;
+        margin: 0 auto 88px auto;
     }
 }
 
 @media (min-width: 1024px) {
     .main__intro {
-        margin: 0 0 92px 0;
+        margin: 0 auto 92px auto;
     }
 }

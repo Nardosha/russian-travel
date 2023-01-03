@@ -10,6 +10,6 @@
 
 @media (min-width: 1024px) {
     .main__intro {
-        margin: 0 0 92px 0;
+        margin: 0 auto 92px auto;
     }
 }
