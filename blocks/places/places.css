@@ -1,11 +1,4 @@
 .places {
     box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    word-break: normal;
-    line-height: 26px;
-    color: #fff;
     padding: 0;
 }

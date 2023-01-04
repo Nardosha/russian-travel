@@ -1,4 +1,11 @@
 .place {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    word-break: unset;
+    line-height: 26px;
+    color: #fff;
     display: grid;
     gap: 32px;
     grid-template-columns: 1fr;
