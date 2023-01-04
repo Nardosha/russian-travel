@@ -3,13 +3,13 @@
 }
 
 @media (min-width: 768px) {
-    .main__intro {
+    .main__lead {
         margin: 0 auto 88px auto;
     }
 }
 
 @media (min-width: 1024px) {
-    .main__intro {
+    .main__lead {
         margin: 0 auto 92px auto;
     }
 }

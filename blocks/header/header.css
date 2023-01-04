@@ -1,8 +1,14 @@
 .header {
     box-sizing: border-box;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: space-between;
     width: 100%;
     padding: 0 16px;
+}
+
+@media (min-width: 768px) {
+    .header {
+        padding: 0 24px;
+    }
 }
