@@ -21,3 +21,9 @@
         padding: 0;
     }
 }
+
+@media (min-width: 1280px) {
+    .intro {
+        max-width: 984px;
+    }
+}
