@@ -3,6 +3,7 @@
     height: 100%;
     position: relative;
     object-fit: cover;
+    vertical-align: top;
     margin: 0 0 8px 0;
 }
 
