@@ -13,10 +13,6 @@
     min-height: 200px;
 }
 
-.cover__overlay-link:hover {
-    background-color: rgba(0, 0, 0, 0.4);
-}
-
 .cover__overlay-link::after {
     content: "";
     position: absolute;
@@ -25,4 +21,8 @@
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.cover__overlay-link:hover {
+    background-color: rgba(42, 44, 47, 0.8);
 }

@@ -10,3 +10,9 @@
     background-repeat: no-repeat;
     padding: 0;
 }
+
+@media (min-width: 1280px) {
+    .cover {
+        margin: 0 48px;
+    }
+}
