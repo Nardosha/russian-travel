@@ -1,5 +1,6 @@
 .footer__copyright {
     font-size: 14px;
+    line-height: 14px;
     flex: 1 0 auto;
     padding: 0;
     margin: 0;
@@ -8,6 +9,6 @@
 @media (min-width: 768px) {
     .footer__copyright {
         align-self: flex-end;
-        line-height: 114%;
+        line-height: 16px;
     }
 }
